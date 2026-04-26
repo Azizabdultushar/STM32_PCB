@@ -6,13 +6,13 @@
 
 ## 📸 Board Overview
 
-| Top View | Bottom View |
+| View2 | View3 |
 |----------|-------------|
-| ![PCB Top](2.png) | ![PCB Bottom](3.png) |
+| ![PCB view2](2.png) | ![PCB view3](3.png) |
 
 ### 3D Preview
 
-![3D Board View](3d.mp4)
+![3D Board View](3d.gif)
 
 ---
 
