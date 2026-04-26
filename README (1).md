@@ -8,11 +8,11 @@
 
 | Top View | Bottom View |
 |----------|-------------|
-| ![PCB Top](images/pcb_top.png) | ![PCB Bottom](images/pcb_bottom.png) |
+| ![PCB Top](images/1.png) | ![PCB Bottom](images/2.png) |
 
 ### 3D Preview
 
-![3D Board View](images/3d_view.gif)
+![3D Board View](images/3d.mp4)
 
 ---
 
@@ -44,7 +44,7 @@ The STM32F103 was chosen for several reasons:
 
 ### Schematic Overview
 
-![Schematic](images/schematic.png)
+![Schematic](images/1.png)
 
 ### Power Supply
 
